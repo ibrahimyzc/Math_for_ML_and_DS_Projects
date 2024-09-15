@@ -10,7 +10,7 @@ This course focused on the fundamental concepts of linear algebra that are criti
 
 #### Key Topics and Projects:
 - Introduction to NumPy arrays for linear algebra operations.
-- Solving systems of linear equations with two and three variables.
+- Solving systems of linear equations.
 - Vector operations, matrix multiplication, and linear transformations.
 - Final assignment combining multiple linear algebra concepts.
 
@@ -19,7 +19,6 @@ This course focused on the fundamental concepts of linear algebra that are criti
 This course introduced key concepts of calculus, focusing on optimization techniques, which are crucial for training machine learning models. We learned about differentiation, gradient descent, and optimization methods such as Newton's method.
 
 #### Key Topics and Projects:
-- Differentiation and its applications in Python.
 - Optimization using gradient descent.
 - Regression using the perceptron algorithm.
 - Newton's method for optimization.
